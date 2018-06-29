@@ -4,4 +4,5 @@ h1{
 	font-size: 120px;
 	margin-top: 20px;
 	letter-spacing: 10px;
+	text-transform: lowercase;
 }
