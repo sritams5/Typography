@@ -5,4 +5,6 @@ h1{
 	margin-top: 20px;
 	letter-spacing: 10px;
 	text-transform: lowercase;
+	text-shadow: 10px 20px 20px gray,
+							10px 20px 20px red; /*Xaxis Yaxis Blur Color*/ 
 }
